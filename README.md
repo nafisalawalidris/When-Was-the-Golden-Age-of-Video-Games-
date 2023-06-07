@@ -4,7 +4,7 @@ Video games are big business: the global gaming market is projected to be worth 
 
 In this project, we'll explore the top 400 best-selling video games created between 1977 and 2020. We'll compare a dataset on game sales with critic and user reviews to determine whether or not video games have improved as the gaming market has grown.
 
-Project Tasks
+## Project Tasks
 1. The ten best-selling video games
 2. Missing review scores
 3. Years that video game critics loved
@@ -13,3 +13,5 @@ Project Tasks
 6. Years video game players loved
 7. Years that both players and critics loved
 8. Sales in the best video game years
+
+**Note:** This project uses SQL queries to analyze the dataset of video games. The analysis is based on available data and does not provide definitive conclusions about the quality or improvement of video games over time.
